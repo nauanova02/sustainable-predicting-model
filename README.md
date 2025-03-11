@@ -5,7 +5,7 @@ It explores the trade-off between **machine learning model accuracy and energy c
 The study also analyzes **hyperparameter tuning techniques** and their impact on **computational footprint**.
 
 📌 **You can access the full paper here:**  
-📄 **[ICTE_paper.pdf](docs/ICTE_paper.pdf)**  
+📄 **[ICTE_paper.pdf](/ICTE_paper.pdf)**  
 
 **Key Research Contributions:**  
 ✅ **Analyzes the environmental impact of ML models using CodeCarbon**  
